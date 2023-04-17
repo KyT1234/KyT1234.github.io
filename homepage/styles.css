@@ -1,0 +1,41 @@
+  body
+  {
+    text-align: center;
+    background-image: url('lightblue.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+
+  h1
+  {
+    color: #F52F3F;
+    font-family: 'Zilla Slab', serif;
+    font-size: 40px;
+    text-shadow: 2px 3px black;
+  }
+
+  .container
+  {
+    color: #FFBF00;
+    text-align: left;
+    font-family: 'Zilla Slab', serif;
+    font-size: 18px;
+    text-shadow: 2px 3px white;
+  }
+
+  title
+  {
+    color: #00FFFF;
+    font-family: 'Zilla Slab', serif;
+    font-size: 30px;
+  }
+
+  p
+  {
+    color: #A9D0F5;
+    font-family: 'Zilla Slab', serif;
+    font-size: 38px;
+  }
+
+
